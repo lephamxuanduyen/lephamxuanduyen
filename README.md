@@ -1,4 +1,4 @@
-<img align="right" alt="space" width="100%" height="400" src="https://i.pinimg.com/originals/fe/84/a4/fe84a417cd8c2f5d0e4f8e7eed128a05.gif"><br>
+<img align="right" alt="space" width="100%" height="300" src="https://i.pinimg.com/originals/df/62/9d/df629dfbfe2078b96eac78aaf753efba.gif"><br>
 
 <h1 align="center">Hi 👋, I'm Duyen</h1>
 <h3 align="center">A Business Analyst from Da Nang</h3>
