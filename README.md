@@ -1,7 +1,7 @@
+<img align="right" alt="space" width="100%" src="https://i.pinimg.com/originals/fe/84/a4/fe84a417cd8c2f5d0e4f8e7eed128a05.gif"><br>
+
 <h1 align="center">Hi 👋, I'm Duyen</h1>
 <h3 align="center">A Business Analyst from Da Nang</h3>
-
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephamxuanduyen&label=Profile%20views&color=0e75b6&style=flat" alt="lephamxuanduyen" /> </p>
 
