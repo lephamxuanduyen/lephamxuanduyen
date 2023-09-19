@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Duyen</h1>
-<h3 align="center">A Business Analyst from Da Nang</h3>
+
 
 <img align="right" alt="coding" width="100%" height="200px" src="https://i.pinimg.com/originals/fc/58/68/fc58680a30c8e4d27c4837a6909578af.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephamxuanduyen&label=Profile%20views&color=0e75b6&style=flat" alt="lephamxuanduyen" /> </p>
+<h1 align="center">Hi 👋, I'm Duyen</h1>
+<h3 align="center">A Business Analyst from Da Nang</h3> <br>
 
 - 📫 How to reach me **lephamxuanduyen@gmail.com**
 
