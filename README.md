@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lephamxuanduyen&label=Profile%20views&color=0e75b6&style=flat" alt="lephamxuanduyen" /> </p>
 <h1 align="center">Hi 👋, I'm Duyen</h1>
-<h3 align="center">A Business Analyst Student from Da Nang</h3> <br>
+<h3 align="center">A student majoring in Management Information Systems</h3> <br>
 
 - 📫 How to reach me **lephamxuanduyen@gmail.com**
 
